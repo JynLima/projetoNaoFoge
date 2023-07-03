@@ -1,0 +1,9 @@
+.botoes {
+    position: relative;
+}
+  
+#nao {
+    position: absolute;
+    left: 0;
+    top: 0;
+}
